@@ -1,5 +1,5 @@
 IP: 84.201.138.150;
-name_taski: полная ссылка (https://mytaskilife.sytes.net) на ваш проект Taski;
-name_kittygram: полная ссылка (https://kittylove.sytes.net) на ваш проект Kittygram;
+name_taski: https://mytaskilife.sytes.net;
+name_kittygram: https://kittylove.sytes.net;
 login: admin;
 password: admin222;
