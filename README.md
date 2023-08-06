@@ -140,6 +140,12 @@ sudo systemctl enable gunicorn_название_проекта
 sudo systemctl start nginx
 ```
 
+Перейдите в директорию с файлом default:
+
+```
+cd /etc/nginx/sites-enabled/
+```
+
 Обновите настройки Nginx:
 
 ```
