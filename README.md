@@ -92,7 +92,7 @@ sudo cp -r путь_к_директории_с_фронтенд-приложен
 Перейдите в директорию с файлом manage.py, и запустите Gunicorn:
 
 ```
-gunicorn --bind 0.0.0.0:8000 backend.wsgi
+gunicorn --bind 0.0.0.0:8081 kittygram_backend.wsgi
 ```
 
 Создайте файл конфигурации юнита systemd для Gunicorn в директории
